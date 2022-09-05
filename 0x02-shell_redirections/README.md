@@ -16,3 +16,4 @@
 15. lines that contain the pattern “bin” in the file /etc/passwd
 16. Display lines containing the pattern “root” and 3 lines after them
 17. Do not contain the pattern "bin"
+18. Display all starting with letters
