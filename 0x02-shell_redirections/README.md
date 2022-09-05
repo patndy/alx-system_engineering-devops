@@ -19,4 +19,5 @@
 18. Display all starting with letters
 19. Replace all characters mentioned
 20. Removes all letters mentioned
-21.Reverses its input
+21. Reverses its input
+22. Displays all users and their home directories
