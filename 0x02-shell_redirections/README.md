@@ -8,3 +8,4 @@
 7. script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 8. script that writes into the file ls_cwd_content the result of the command ls -la
 9. Displays the last line of a file
+10. Delete all the regular file in Javascript
