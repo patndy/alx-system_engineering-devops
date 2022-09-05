@@ -24,3 +24,4 @@
 23. Finds all empty files
 24. List all files with a .gif extention
 25. Decodes Acrostics
+26. parses web servers logs in TSV format
