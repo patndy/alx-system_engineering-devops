@@ -22,3 +22,4 @@
 21. Reverses its input
 22. Displays all users and their home directories
 23. Finds all empty files
+24. List all files with a .gif extention
