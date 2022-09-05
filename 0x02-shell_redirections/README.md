@@ -21,3 +21,4 @@
 20. Removes all letters mentioned
 21. Reverses its input
 22. Displays all users and their home directories
+23. Finds all empty files
