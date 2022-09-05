@@ -18,3 +18,4 @@
 17. Do not contain the pattern "bin"
 18. Display all starting with letters
 19. Replace all characters mentioned
+20. Removes all letters mentioned
