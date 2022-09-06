@@ -14,4 +14,5 @@
 13. Print a number with 2 decimal places
 14. Displays in base 16
 15. encodes and decodes text using the rot13 encryption
-16. Prints every other line from the input 
+16. Prints every other line from the input
+17. the two numbers stored in the environment variables 
