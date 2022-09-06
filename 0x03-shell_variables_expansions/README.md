@@ -13,3 +13,4 @@
 12. Combinations of two letters, except oo
 13. Print a number with 2 decimal places
 14. Displays in base 16
+15. encodes and decodes text using the rot13 encryption.
