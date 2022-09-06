@@ -4,4 +4,5 @@
 3. Counts the number of directories in the path
 4. List environment variables
 5. List all local variables, environment variables and functions
-6. Creates a new local variables
+6. Creates a new local variable
+7. Creates a new global variable
