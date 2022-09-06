@@ -8,3 +8,4 @@
 7. Creates a new global variable
 8. The addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 9. The result of power divded by divide
+10. Breath to the power of love
