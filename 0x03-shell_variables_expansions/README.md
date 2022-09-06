@@ -11,3 +11,4 @@
 10. Breath to the power of love
 11. Convert a number from base 2 to base 10
 12. Combinations of two letters, except oo
+13. Print a number with 2 decimal places
